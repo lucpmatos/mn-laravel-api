@@ -1,0 +1,32 @@
+{
+  "states": [
+    {
+      "name": "São Paulo",
+      "short_name": "SP",
+      "cities": [
+        {
+          "name": "São Paulo",
+          "short_name": "SP"
+        },
+        {
+          "name": "Campinas",
+          "short_name": "CP"
+        }
+      ]
+    },
+    {
+      "name": "Rio de Janeiro",
+      "short_name": "RJ",
+      "cities": [
+        {
+          "name": "Rio de Janeiro",
+          "short_name": "RJ"
+        },
+        {
+          "name": "Niterói",
+          "short_name": "NI"
+        }
+      ]
+    }
+  ]
+}
